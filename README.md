@@ -74,6 +74,12 @@ You can pass an optional `page` parameter specifying the result page you want to
 
 ##### showBook(bookID)
 
+##### bookIDToWorkID(bookID)
+
+##### seriesWorkIsIn(workID)
+
+##### getSeries(seriesID)
+
 
 
 
